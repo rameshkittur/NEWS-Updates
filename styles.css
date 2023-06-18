@@ -37,7 +37,8 @@ ul{
     align-items: center;
 }
 nav{
- background-color: #f3faff;
+/*  background-color: #f3faff; */
+ background-color: #c1e4fe;
  box-shadow: 0 0 4px #bbd0e2;
  position:fixed;
  z-index: 99;
